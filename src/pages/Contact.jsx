@@ -6,7 +6,7 @@ const Contact = () => {
   const params = useParams();
   return (
     <Layout>
-   <h1 className="text-left font-bold text-4xl text-blue-950 mb-10 mt-10">หน้าหลัก</h1>
+   <h1 className="text-left font-bold text-4xl text-blue-950 mb-10 mt-10">ติดต่อเรา</h1>
       <hr />
 
     

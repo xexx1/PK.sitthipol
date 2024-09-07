@@ -14,7 +14,7 @@ const Navbar = () => {
 
       <ul className="flex space-x-4 mr-10">
         <li><NavLink to="/" className="text-white hover:text-black">Home</NavLink></li>
-        <li><NavLink to="/about" className="text-white hover:text-black">Course</NavLink></li>
+        <li><NavLink to="/course" className="text-white hover:text-black">Course</NavLink></li>
         
         <li><NavLink to="/contact" className="text-white hover:text-black">Contact</NavLink></li>
       </ul>
